@@ -19,8 +19,8 @@ Yoo et al. (2025) established the criteria for animal clustering in the animal f
 
 ## 사용 방법 (How to Use) 
 
-1. [Animal Inventory File](Animal Inventory File_241213.csv) 다운 받기
-   Download the [Animal Inventory File](Animal Inventory File_241213.csv) 
+1. [Animal Inventory File](Animal Inventory File_260309.csv) 다운 받기
+   Download the [Animal Inventory File](Animal Inventory File_260309.csv) 
 
   + Cluster analysis를 위한 자동 분석은 해당 Animal Inventory File에 기반해 이루어진다.
   + The automatic analysis for cluster analysis is based on this Animal Inventory File.
@@ -78,7 +78,7 @@ When using the animal criteria or automated analysis methods, citations and refe
 
 ## 업데이트 정보 (Update Information)
 
-Last Update : 2025.06.16
+Last Update : 2026.03.09
 
 
 
